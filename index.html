@@ -7,14 +7,16 @@ excerpt: "Plataforma para criação de petições eletrônicas através de um mo
 header:
   overlay_image: header.png 
 
-feature_row_a:
+feature_row:
+    id = "a"
   - title: "Singular Form"
     excerpt: "*Automatiza e gerencia formulário de petição longos ou complexos com uma interface prática e agradável para os usuário finais, bem como, faz a gestão de versões.*"
 
   - title: "Singular Flow"
     excerpt: "*Controla o fluxo interno de análise no orgão do início ao fim, apoio o trabalho dos analista do orgão.*"
 
-feature_row_b:
+feature_row:
+    id = "b"
   - image_path 50.png
     excerpt: "Redução de tempo em NOVAS PETIÇÕES"
 
@@ -25,6 +27,6 @@ feature_row_b:
     excerpt: "Redução de ERROS"
 ---
 
-{% include feature_row_a %}
+{% include feature_row id = "a" %}
 
-{% include feature_row_b %}
+{% include feature_row id = "b" %}
