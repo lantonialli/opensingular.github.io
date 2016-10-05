@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Documentação"
-    url: /docs/configuration
+    url: /docs/basic/introduction
     
   - title: "Veja no Github"
     url: https://github.com/opensingular/
@@ -10,22 +10,22 @@ docs:
   - title: "Documentação Básica"
     children:
       - title: "Introdução"
-        url: /docs/basic/introduction/
+        url: /docs/basic/introduction
       - title: "Guia Rápido (Flow)"
         url: /docs/basic/flow
       - title: "Guia Rápido (Form)"
         url: /docs/basic/form
       - title: "Configuração"
-        url: /docs/basic/configuration/
+        url: /docs/basic/configuration
 
   - title: "Flow"
     children:
       - title: "Singular Flow"
-        url: /docs/flow/
+        url: /docs/flow
 
   - title: "Form"
     children:
       - title: "Singular Form"
-        url: /docs/form/
+        url: /docs/form
       - title: "Wicket"
-        url: /docs/wicket/
+        url: /docs/wicket
