@@ -3,9 +3,6 @@ main:
   - title: "Documentação"
     url: /docs/configuration
     
-  - title: "Ajuda"
-    url: /help
-
   - title: "Veja no Github"
     url: https://github.com/opensingular/
 
