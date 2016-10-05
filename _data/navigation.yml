@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Inicio"
-    url: /
-
   - title: "Documentação"
     url: /docs
     
@@ -11,4 +8,3 @@ main:
 
   - title: "Veja no Github"
     url: https://github.com/opensingular/
- 
