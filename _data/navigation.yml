@@ -8,3 +8,27 @@ main:
 
   - title: "Veja no Github"
     url: https://github.com/opensingular/
+
+docs:
+  - title: "Documentação Básica"
+    children:
+      - title: "Introdução"
+        url: /docs/basic/introduction/
+      - title: "Guia Rápido (Flow)"
+        url: /docs/basic/flow
+      - title: "Guia Rápido (Form)"
+        url: /docs/basic/form
+      - title: "Configuração"
+        url: /docs/basic/configuration/
+
+  - title: "Flow"
+    children:
+      - title: "Singular Flow"
+        url: /docs/flow/
+
+  - title: "Form"
+    children:
+      - title: "Singular Form"
+        url: /docs/form/
+      - title: "Wicket"
+        url: /docs/wicket/
