@@ -1,7 +1,14 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
-
-  - title: "Sample Navigation Link 2"
+  - title: "Inicio"
     url: /
+
+  - title: "Documentação"
+    url: /docs
+    
+  - title: "Ajuda"
+    url: /help
+
+  - title: "Veja no Github"
+    url: https://github.com/opensingular/
+ 
