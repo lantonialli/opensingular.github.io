@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Documentação"
-    url: /docs
+    url: /docs/configuration
     
   - title: "Ajuda"
     url: /help
