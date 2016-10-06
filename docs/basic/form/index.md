@@ -132,7 +132,7 @@ No exemplo acima os campos ocupam preferencialmente 4/12 avos da largura da tela
 
 A figura abaixo ilustra o formulário apresentado pela definição acima:
 
-![Formulário de Solicitação de Passaporte](/img/form-solicitacao-passaporte.png)
+![Formulário de Solicitação de Passaporte](/images/form-solicitacao-passaporte.png)
 
 
 ### Configuração Wicket-Spring

@@ -267,5 +267,5 @@ No exemplo acima apresenta um fluxo definido com o *Builder* default do Singular
 
  A Figura abaixo ilustra o fluxo definido acima.
 
-![Fluxo de Passaporte](/img/fluxo-passaporte.png)
+![Fluxo de Passaporte](/images/fluxo-passaporte.png)
 
