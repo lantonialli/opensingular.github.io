@@ -37,3 +37,11 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.logo {
+    background-image: url(/images/logo_singular.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 30px;
+    width: 150px;
+}
