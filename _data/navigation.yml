@@ -2,7 +2,10 @@
 main:
   - title: "Documentação"
     url: /docs/basic/introduction
-    
+
+  - title: "Licenciamento"
+    url: /license
+
   - title: "Ir Github"
     url: https://github.com/opensingular/
 
